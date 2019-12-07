@@ -13,3 +13,5 @@ var freakingdata = {
 for(i in freakingdata){
     console.log(i);
 }
+
+console.log("System terminated the program successfully!");
